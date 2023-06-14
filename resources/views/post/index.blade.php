@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>AWS S3</title>
 
-    <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css" />
 
     <style>
         html, body{
