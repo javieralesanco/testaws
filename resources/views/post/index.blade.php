@@ -132,9 +132,6 @@
 </div>
 
 
-      <!-- Bootstrap JS, jquery y popper compilado -->
-      <script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
-
       <script type="text/javascript">
         //Mantener modal abierto si hay errores de validación.
         @if (count($errors) > 0)
